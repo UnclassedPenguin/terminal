@@ -23,7 +23,7 @@ const directories = {
     ].flat(),
     skills: [
         '',
-        '<white>languages</white>',
+        '<white>Languages</white>',
         [
             'JavaScript',
             'Python',
@@ -31,7 +31,7 @@ const directories = {
             'Bash'
         ].map(lang => `* <yellow>${lang}</yellow>`),
         '',
-        '<white>tools</white>',
+        '<white>Tools</white>',
         [
             'git',
             'GNU/Linux'
